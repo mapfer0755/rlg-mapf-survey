@@ -13,3 +13,5 @@ CBSH2： https://github.com/Jiaoyang-Li/CBSH2
 CBSH2-RTC https://github.com/Jiaoyang-Li/CBSH2-RTC
 
 PBS：https://github.com/Jiaoyang-Li/PBS
+
+CA*: https://github.com/yge58/collaborative_a_star_pathfinding/tree/master
