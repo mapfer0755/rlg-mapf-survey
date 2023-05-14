@@ -1,4 +1,4 @@
-# mapf_survey
+# Code for some mapf solvers
 
 ## Classical MAPF
 ### OPtimal solvers
@@ -25,11 +25,3 @@ PBS：https://github.com/Jiaoyang-Li/PBS
 PIBT:https://github.com/Kei18/pibt2
 
 MAPF-LNS：https://github.com/Jiaoyang-Li/MAPF-LNS
-
-
-## Beyond classical MAPF
-
-Cooperative Conflict-Based Search (Co-CBS):
-
-https://github.com/gaosz0755/Co-CBS-for-Cooperative-MAPF
-
